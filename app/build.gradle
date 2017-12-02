@@ -1,10 +1,9 @@
-//apply plugin: 'com.android.application'
-apply plugin: 'com.android.library'
+apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
     defaultConfig {
-        //applicationId "soft.binsoft.com.toastlib"
+        applicationId "soft.binsoft.com.toastlib"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
