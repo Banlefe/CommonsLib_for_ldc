@@ -1,4 +1,4 @@
-package soft.binsoft.com.toastlib;
+package soft.binsoft.com.commonlibs;
 
 import android.support.annotation.Nullable;
 import android.os.Bundle;

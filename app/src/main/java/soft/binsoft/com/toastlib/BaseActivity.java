@@ -1,4 +1,4 @@
-package soft.binsoft.com.toastlib;
+package soft.binsoft.com.commonlibs;
 
 import android.app.Activity;
 import android.content.Context;
